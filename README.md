@@ -11,3 +11,10 @@ Deli Belly, is a delectable online destination for food enthusiasts and gastrono
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
+
+## Build with 
+
+- `HTML5`
+- `CSS3`
+- Responsive by `@media` Media Queries for mobile, tablet, laptop (not using Bootstrap UI library)
+- A little `JavaScript`
